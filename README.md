@@ -130,8 +130,10 @@ my screenshot after upload:
 
 ## Feature Importance
 <img width="800" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/fad9b013-9183-47c9-a7d6-9cfddad33811" />
+
 ## accuracy 
 <img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/27ebd6d6-b0e4-4bdb-b2ce-c5e2a2f8f323" />
+
 ## Report 
 <img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/bbcd6493-5a3f-4698-bd93-bd82b45043c8" />
 
