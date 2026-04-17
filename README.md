@@ -108,30 +108,34 @@ HR Decisions
 
 ## 🖥 Dashboard Preview
 
-> Add your screenshot after upload:
+my screenshot after upload:
+## dashboard 
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/7e4bae24-a4d3-4a4a-b525-493ad5822ca1" />
+## prediction performance Medium 
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/7e559ea7-4f06-4d9d-8a07-5a8d93ea1951" />
+## prediction performance High
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/385af1c0-03c7-4a07-abd4-ae394f8261db" />
 
-```markdown
-![Dashboard](images/dashboard.png)
-```
-
----
 
 ## 📈 Model Outputs
 
-> Add screenshots here:
+>  screenshots here:
 
-```markdown
-![Confusion Matrix](outputs/confusion_matrix.png)
+## Confusion Matrix
+<img width="600" height="400" alt="confusion_matrix" src="https://github.com/user-attachments/assets/416ba7f3-f411-4099-8965-ee1f6d7f8b49" />
 
-![Feature Importance](outputs/feature_importance.png)
-```
+## Feature Importance
+<img width="800" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/fad9b013-9183-47c9-a7d6-9cfddad33811" />
+## accuracy 
+<img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/27ebd6d6-b0e4-4bdb-b2ce-c5e2a2f8f323" />
+## Report 
+<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/bbcd6493-5a3f-4698-bd93-bd82b45043c8" />
 
----
 
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/employee-performance-predictor.git
+git clone https://github.com/challakishore-dev/employee-performance-predictor.git
 cd employee-performance-predictor
 pip install -r requirements.txt
 ```
@@ -166,7 +170,7 @@ employee-performance-predictor/
 ├── data/
 ├── models/
 ├── outputs/
-├── images/
+├── streamlit/
 ├── src/
 ```
 
@@ -181,16 +185,6 @@ employee-performance-predictor/
 | Classes  | High / Medium / Low |
 
 (Depends on generated dataset)
-
----
-
-## 📹 Demo
-
-> Add GIF here:
-
-```markdown
-![Demo](images/demo.gif)
-```
 
 ---
 
@@ -227,13 +221,12 @@ Use this project to prove skills in:
 
 ## 👤 Author
 
-**Your Name**
+**Challa Kishore**
 Data Science | Machine Learning | Analytics
 
-LinkedIn: Add your link
-GitHub: Add your profile link
+GitHub: https://github.com/challakishore-dev
 
----
+LinkedIn: https://linkedin.com/in/challa-kishore-a817552b4
 
 ## ⭐ If You Like This Project
 
