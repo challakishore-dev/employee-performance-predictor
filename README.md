@@ -111,9 +111,13 @@ HR Decisions
 my screenshot after upload:
 ## dashboard 
 <img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/7e4bae24-a4d3-4a4a-b525-493ad5822ca1" />
+
 ## prediction performance Medium 
+
 <img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/7e559ea7-4f06-4d9d-8a07-5a8d93ea1951" />
+
 ## prediction performance High
+
 <img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/385af1c0-03c7-4a07-abd4-ae394f8261db" />
 
 
